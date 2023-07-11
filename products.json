@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "img": "./imageProduct/NEWSPAPER.webp",
+        "title": "NEWSPAPER",
+        "price": "12",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 2,
+        "img": "./imageProduct/CARTON.jpeg",
+        "title": "CARTON",
+        "price": "08",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 3,
+        "img": "./imageProduct/OIL DABBA.jpg",
+        "title": "OIL DABBA",
+        "price": "26",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 4,
+        "img": "./imageProduct/NOTEBOOK.png",
+        "title": "NOTEBOOKS / BOOKS",
+        "price": "08",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 5,
+        "img": "./imageProduct/OFFICE PAPER.jpg",
+        "title": "OFFICE PAPER",
+        "price": "10",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 6,
+        "img": "./imageProduct/OLD CLOTH.webp",
+        "title": "OLD CLOTH",
+        "price": "00",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 7,
+        "img": "./imageProduct/LIGHT IRON.jpg",
+        "title": "LIGHT IRON",
+        "price": "27",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 8,
+        "img": "./imageProduct/HEAVY IRON.jpg",
+        "title": "HEAVY IRON",
+        "price": "30",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 9,
+        "img": "./imageProduct/VEHICLE SCRAP.jpg",
+        "title": "VEHICLE SCRAP",
+        "price": "29",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+     {
+        "id": 10,
+        "img": "./imageProduct/MIX PLASTIC.jpg",
+        "title": "MIX PLASTIC",
+        "price": "08",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 11,
+        "img": "./imageProduct/RO.WEBP",
+        "title": "RO WATER PURIFIER",
+        "price": "18",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 12,
+        "img": "./imageProduct/PLASTIC PET BOTTLES.webp",
+        "title": "PLASTIC PET BOTTLES",
+        "price": "17",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 13,
+        "img": "./imageProduct/MILK POUCH.jpg",
+        "title": "MILK POUCH",
+        "price": "29",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 14,
+        "img": "./imageProduct/STANLESS STEEL.jpg",
+        "title": "STANLESS STEEL",
+        "price": "50",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 15,
+        "img": "./imageProduct/ALUMINIUM.jpg",
+        "title": "ALUMINIUM",
+        "price": "11",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 16,
+        "img": "./imageProduct/COPPER UTENSIL.jpeg",
+        "title": "COPPER UTENSIL",
+        "price": "44",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 17,
+        "img": "./imageProduct/COPPER CABLE.jpeg",
+        "title": "COPPER CABLE",
+        "price": "51",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 18,
+        "img": "./imageProduct/BRASS HARDWARE.jpeg",
+        "title": "BRASS HARDWARE",
+        "price": "31",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 19,
+        "img": "./imageProduct/BRASS UTENSILS.jpeg",
+        "title": "BRASS UTENSILS",
+        "price": "31",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 20,
+        "img": "./imageProduct/TOP LOAD WASHING MACHINE.pNG",
+        "title": "TOP LOAD WASHING MACHINE",
+        "price": "20",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 21,
+        "img": "./imageProduct/REFRIGERATOR.jpeg",
+        "title": "REFRIGERATOR",
+        "price": "24",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 22,
+        "img": "./imageProduct/COMPUTER FULL SET.webp",
+        "title": "COMPUTER FULL SET",
+        "price": "35G",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 23,
+        "img": "./imageProduct/DABBA COMPUTER.jpg",
+        "title": "DABBA COMPUTER",
+        "price": "08",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 24,
+        "img": "./imageProduct/PRINTER.webp",
+        "title": "PRINTER",
+        "price": "20",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 25,
+        "img": "./imageProduct/MICROWAVE.webp",
+        "title": "MICROWAVE",
+        "price": "24",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 26,
+        "img": "./imageProduct/PLASTIC BAG.jpg",
+        "title": "PLASTIC BAG",
+        "price": "05",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 27,
+        "img": "./imageProduct/PVC PIPE.webp",
+        "title": "PVC PIPE",
+        "price": "08",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 28,
+        "img": "./imageProduct/AIR CONDITIONER (AC).webp",
+        "title": "AIR CONDITIONER AC",
+        "price": "10",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 29,
+        "img": "./imageProduct/TV.webp",
+        "title": "TV",
+        "price": "15OS",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 30,
+        "img": "./imageProduct/PVC INSULATED COPPER WIRE.webp",
+        "title": "PVC INSULATED COPPER WIRE",
+        "price": "75",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 31,
+        "img": "./imageProduct/PVC INSULATED ALUMINUM WIRE.webp",
+        "title": "PVC INSULATED ALUMINIUM WIRE",
+        "price": "30",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 32,
+        "img": "./imageProduct/SHOES.webp",
+        "title": "SHOES CHAPPAL",
+        "price": "00",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 33,
+        "img": "./imageProduct/INVERTER BATTERY.jpg",
+        "title": "INVERTER BATTERY",
+        "price": "90",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 34,
+        "img": "./imageProduct/BRASS TURNIG.jpeg",
+        "title": "BRASS TURNIG",
+        "price": "30",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 35,
+        "img": "./imageProduct/IRON TURNIG.jpeg",
+        "title": "BRASS TURNIG",
+        "price": "26",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    
+    {
+        "id": 36,
+        "img": "./imageProduct/S S 304 TURNIG.jpeg",
+        "title": "S S 304 TURNIG",
+        "price": "80",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 37,
+        "img": "./imageProduct/S S 316 TURNIG.jpeg",
+        "title": "S S 316 TURNIG",
+        "price": "13",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    },
+    {
+        "id": 38,
+        "img": "./imageProduct/S S 304 TURNIG.jpeg",
+        "title": "ANOTHOR BHANGAR",
+        "price": "DES ON BHANGAR / KG",
+        "SellNow": "Sell Now",
+        "Donate": "Donate"
+    }
+
+]
